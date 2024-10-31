@@ -1,5 +1,8 @@
 # tennis-analytics
 
+This repository contains the source code used for research performed in https://docs.google.com/document/d/1Vaz3Y5rYYUhHZ48IKPAia_NBtqs_BBJm2HdY7AD6wsg
+
+Abstract:
 While many players put their focus on developing technical skills such as strokes, footwork patterns, and serve/receive, very few players place enough attention on the strategic and mental aspects of the sport. 
 It is crucial to develop a comprehensive approach to the game that encompasses both technical proficiency and strategic decision-making. 
 This research project focuses on using data analysis and computer science to analyze the importance of winning at different scores of a tennis game (0:0, 30:15, 40:40, etc.). 
